@@ -1,0 +1,109 @@
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+li {
+    margin-bottom: 10px;
+}
+
+.green {
+    color: green;
+    text-align: center;
+}
+
+.margin-font-size {
+    margin-bottom: 30px;
+    font-size: larger;
+}
+
+.introductions {
+    width: 452.4px;
+    height: 112px;
+}
+
+nav {
+    margin-bottom: 30px;
+}
+
+#gbackground {
+    background-color: #00ccb1;;
+}
+
+.yasser {
+    width: 294.9px;
+    height: 345px;
+}
+
+#margin-bottoms {
+    margin-bottom: 20px;
+}
+
+#margin-bottom {
+    margin-bottom: 50px;
+}
+
+.padding-box {
+    padding: 20px;
+}
+
+#white-color {
+    color: #fff;
+}
+
+#green-color {
+    color: #00b39b;
+}
+
+#green-background {
+    background-color: #ADD8E6;
+}
+
+.background-green {
+    background-image: url(https://www.docplanner.com/img/logo.png);
+    background-position-x: 200px;
+    background-position-y: 200px;
+    background-size: initial;
+    background-attachment: initial;
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-origin: initial;
+    background-clip: initial;
+}
+
+.big-image {
+    width: 200px;
+    height: 200px;
+}
+
+.right {
+    position: absolute;
+    right: 0px;
+}
+
+.new-width {
+    width: 186.2px;
+    height: 220px;
+}
+
+.white-background {
+    background-color: whitesmoke;
+}
+
+.fontt {
+    font-size: smaller;
+}
+
+#wala {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+
+#widthss {
+    width: 20px;
+}
+
